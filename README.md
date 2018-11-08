@@ -1,4 +1,4 @@
-## t-rex-runner
+## T. Rex Runner | Optimized for WearOS Smartwatches
 
 the trex runner game extracted from chrome offline err page.
 
